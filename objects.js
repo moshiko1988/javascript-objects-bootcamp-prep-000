@@ -1,1 +1,1 @@
-Object.assign({}, artist: , {'Britney', 'Hit me baby'})
+Object.assign({}, artist , {Britney:, 'Hit me baby'})
