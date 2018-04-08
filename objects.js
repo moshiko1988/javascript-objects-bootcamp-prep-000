@@ -1,1 +1,1 @@
-Object.assign({artist}, )
+Object.assign({},artist )
